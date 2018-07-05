@@ -2,7 +2,6 @@ const express = require('express');
 const pushDispatcher = express.Router();
 let log4js = require('log4js');
 require('dotenv-extended').load();
-const functions = require('firebase-functions');
 let admin = require('firebase-admin');
 
 let logConf = require('../constants/log_conf');

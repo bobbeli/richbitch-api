@@ -1,0 +1,10 @@
+node_modules/
+functions/node_modules/
+functions/package-lock.json
+.idea/*
+logs/*
+*.gem
+*.env
+.DS_Store
+functions/prestige-api-firebase-adminsdk.json
+functions/prestige-api-firebase-adminsdk-service-account.json
